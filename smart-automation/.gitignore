@@ -1,0 +1,13 @@
+artifacts/downloads/*
+artifacts/screenshots/*
+artifacts/logs/*
+artifacts/reports/*
+artifacts/videos/*
+artifacts/traces/*
+artifacts/generated-data/*
+!artifacts/downloads/.gitkeep
+!artifacts/screenshots/.gitkeep
+!artifacts/logs/.gitkeep
+!artifacts/reports/.gitkeep
+!artifacts/videos/.gitkeep
+!artifacts/traces/.gitkeep
